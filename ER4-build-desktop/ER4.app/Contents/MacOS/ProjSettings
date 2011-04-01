@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ProjectsData.Name</key>
+	<string>2222</string>
+	<key>ProjectsData.PQuantity</key>
+	<integer>1</integer>
+	<key>ProjectsData.Path</key>
+	<string>/</string>
+	<key>ProjectsData.ilter</key>
+	<array>
+		<string>*.e</string>
+		<string>*.hdl</string>
+	</array>
+	<key>ProjectsData_Aleksey_ER4.Name</key>
+	<string>1111</string>
+	<key>ProjectsData_Aleksey_ER4.PQuantity</key>
+	<integer>1</integer>
+	<key>ProjectsData_Aleksey_ER4.Path</key>
+	<string>/</string>
+	<key>ProjectsData_Aleksey_ER4.ilter</key>
+	<array>
+		<string>*.e</string>
+		<string>*.hdl</string>
+	</array>
+	<key>ProjectsData_Aleksey·Sushanov.Name</key>
+	<string>234456</string>
+	<key>ProjectsData_Aleksey·Sushanov.PQuantity</key>
+	<integer>1</integer>
+	<key>ProjectsData_Aleksey·Sushanov.Path</key>
+	<string>/</string>
+	<key>ProjectsData_Aleksey·Sushanov.ilter</key>
+	<array>
+		<string>*.e</string>
+		<string>*.hdl</string>
+	</array>
+</dict>
+</plist>

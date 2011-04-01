@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ProjectsData_Aleksey_ER4.Expanded</key>
+	<array>
+		<string>/Users/aleksey/Books/Calibre</string>
+		<string>/Developer/Extras/LegacyAPISurvey</string>
+		<string>/Users/aleksey/Dropbox/My documents and others/SekaiFramework</string>
+		<string>/Developer/AdobeAIRSDK/frameworks</string>
+		<string>/Users/Shared/Library</string>
+		<string>/Users</string>
+		<string>/Users/aleksey/Dropbox</string>
+		<string>/Developer/AdobeAIRSDK</string>
+		<string>/Users/aleksey/Books/Calibre/Michael Trent</string>
+		<string>/Users/Shared/Library/Application Support</string>
+		<string>/Developer/About Xcode.app/Contents</string>
+		<string>/Developer/AdobeAIRSDK/frameworks/libs</string>
+		<string>/Users/aleksey</string>
+		<string>/Users/aleksey/Dropbox/My documents and others/SekaiFramework/bin</string>
+		<string>/Users/Shared/Library/Application Support/Adobe/AIR</string>
+		<string>/Users/aleksey/Books/Calibre/Tierri Pratchiett</string>
+		<string>/Users/aleksey/Dropbox/My documents and others/SekaiFramework/bin/x86_debug</string>
+		<string>/</string>
+		<string>/Users/aleksey/Books/Kindle</string>
+		<string>/Users/Shared/Library/Application Support/Adobe</string>
+		<string>/Users/aleksey/Books/Calibre/Michael Trent/MacOS X Programming (4)</string>
+		<string>/Users/aleksey/Dropbox/My documents and others/Programming</string>
+		<string>/Developer/AdobeAIRSDK/frameworks/libs/air</string>
+		<string>/Users/aleksey/Dropbox/My documents and others</string>
+		<string>/ApplicationFiles</string>
+		<string>/Users/aleksey/Dropbox/files (Baluc, Sushanov)</string>
+		<string>/Developer/About Xcode.app</string>
+		<string>/Users/aleksey/Dropbox/My documents and others/Programming/SF</string>
+		<string>/Developer/Extras</string>
+		<string>/opt/gtk</string>
+		<string>/Users/aleksey/Books/Calibre/By _                    Samir Palnitkar</string>
+		<string>/Users/Shared</string>
+	</array>
+	<key>ProjectsData_Aleksey_ER4.Filter</key>
+	<array/>
+	<key>ProjectsData_Aleksey_ER4.LastOpenedProjIdx</key>
+	<integer>3</integer>
+	<key>ProjectsData_Aleksey_ER4.LastOpenedProjName</key>
+	<string>MyProject</string>
+	<key>ProjectsData_Aleksey_ER4.Name</key>
+	<string>2</string>
+	<key>ProjectsData_Aleksey_ER4.PQuantity</key>
+	<integer>4</integer>
+	<key>ProjectsData_Aleksey_ER4.Path</key>
+	<string>/</string>
+	<key>ProjectsData_Aleksey_ER4.ame</key>
+	<string>MyProject</string>
+	<key>ProjectsData_Aleksey_ER4.anded</key>
+	<array>
+		<string>/Users/aleksey/Documents/Work</string>
+		<string>/Users/aleksey/Documents/Work/Xelerated/Reports</string>
+		<string>/Users/aleksey/Documents</string>
+		<string>/Users</string>
+		<string>/</string>
+		<string>/Users/aleksey/Documents/Work/Xelerated</string>
+		<string>/Users/aleksey</string>
+	</array>
+	<key>ProjectsData_Aleksey_ER4.ath</key>
+	<string>/Users/aleksey/Documents/Programming/QT/Projects/ER4</string>
+	<key>ProjectsData_Aleksey_ER4.e</key>
+	<string>Proj3</string>
+	<key>ProjectsData_Aleksey_ER4.h</key>
+	<string>/Users/aleksey/Documents/Work/Xelerated</string>
+	<key>ProjectsData_Aleksey_ER4.ilter</key>
+	<array>
+		<string>*.e</string>
+		<string>*.hdl</string>
+	</array>
+	<key>ProjectsData_Aleksey_ER4.lter</key>
+	<array>
+		<string>*.e</string>
+		<string>*.pages</string>
+	</array>
+	<key>ProjectsData_Aleksey_ER4.me</key>
+	<string>NewProject</string>
+	<key>ProjectsData_Aleksey_ER4.panded</key>
+	<array>
+		<string>/</string>
+		<string>/Users/aleksey</string>
+		<string>/Users</string>
+		<string>/Users/aleksey/Documents/Work/Xelerated</string>
+		<string>/Users/aleksey/Documents/Work</string>
+		<string>/Users/aleksey/Documents/Work/Xelerated/Reports</string>
+		<string>/Users/aleksey/Documents</string>
+	</array>
+	<key>ProjectsData_Aleksey_ER4.ter</key>
+	<array>
+		<string>*.e</string>
+		<string>*.pages</string>
+		<string>*.vhdl</string>
+	</array>
+	<key>ProjectsData_Aleksey_ER4.th</key>
+	<string>/Users/aleksey/Documents/Work/Xelerated</string>
+	<key>ProjectsData_Aleksey_ER4.xpanded</key>
+	<array>
+		<string>/Users/aleksey/Documents/Programming/QT/Projects/ER4</string>
+		<string>/</string>
+		<string>/Users</string>
+		<string>/Users/aleksey/Documents/Programming</string>
+		<string>/Users/aleksey/Documents/Programming/QT</string>
+		<string>/Users/aleksey/Documents/Programming/QT/Projects/ER4/ER4-build-desktop</string>
+		<string>/Users/aleksey/Documents/Programming/QT/Projects/ER4/ER4-build-desktop/ER4.app/Contents/MacOS</string>
+		<string>/Users/aleksey/Documents/Programming/QT/Projects</string>
+		<string>/Users/aleksey</string>
+		<string>/Users/aleksey/Documents/Programming/QT/Projects/ER4/ER4-build-desktop/ER4.app/Contents</string>
+		<string>/Users/aleksey/Documents/Programming/QT/Projects/ER4/ER4-build-desktop/ER4.app</string>
+		<string>/Users/aleksey/Documents</string>
+	</array>
+</dict>
+</plist>
